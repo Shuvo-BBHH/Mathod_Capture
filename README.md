@@ -1,6 +1,3 @@
-# Mathod_Capture
-# Hrdenc
-
 # PROGRAMMED BY MAHDI
 
 # INSTALLATIONS
@@ -8,7 +5,7 @@
 - `pkg update`
 - `pkg upgrade`
 - `pkg install python`
-- `rm -rf Hrdenc`
+- `rm -rf Mathod_Capture`
 # MAIN CAMMANDS
 
 - `pip install mahdix`
