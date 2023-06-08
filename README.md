@@ -9,7 +9,7 @@ HARD  ENCRIPTION
 
 - `pkg update`
 - `pkg upgrade`
-- `pkg install python``
+- `pkg install python`
 - `rm -rf Hrdenc`
 # MAIN CAMMANDS
 
