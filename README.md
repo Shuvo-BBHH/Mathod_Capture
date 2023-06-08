@@ -1,7 +1,5 @@
 # Mathod_Capture
 # Hrdenc
-HARD  ENCRIPTION
-# Hrdenc
 
 # PROGRAMMED BY MAHDI
 
