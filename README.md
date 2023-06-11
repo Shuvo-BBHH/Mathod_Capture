@@ -5,9 +5,9 @@
 - `pkg update`
 - `pkg upgrade`
 - `pkg install python`
-- `rm -rf Mathod_Capture`
-# MAIN CAMMANDS
 
+# MAIN CAMMANDS
+- `rm -rf Mathod_Capture`
 - `pip install mahdix`
 - `git clone https://github.com/Shuvo-BBHH/Mathod_Capture`
 - `cd Mathod_Capture`
