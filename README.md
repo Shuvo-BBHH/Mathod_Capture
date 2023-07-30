@@ -8,7 +8,7 @@
 
 # MAIN CAMMANDS
 - `rm -rf Mathod_Capture`
-- `pip install mahdix`
+- `pip uninstall -y mahdix && pip install mahdix`
 - `git clone https://github.com/Shuvo-BBHH/Mathod_Capture`
 - `cd Mathod_Capture`
 - `python mahdi.py`
